@@ -141,7 +141,9 @@ body {
 .contact-info i {
   vertical-align: middle;
 }
-
+.spanright{
+  padding-left: 8rem;
+}
 .form-control, .form-control:focus {
   border-radius: 1rem;
   border: 1px solid #ddd;
